@@ -5,5 +5,6 @@ Basic Syntax
 ### Science
 
 Emphasis
-*Musty*
-*Jabir*
+
+* Musty *
+* Jabir *

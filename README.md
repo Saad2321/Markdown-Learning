@@ -7,5 +7,4 @@ Basic Syntax
 Emphasis
 
 *This text will be italic*
-_kano City_
-
+**This text will be bold**

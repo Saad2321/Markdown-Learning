@@ -1,5 +1,5 @@
 Basic Syntax
 Headings
-#Arewa
-##Data
-###Science
+# Arewa
+## Data
+### Science

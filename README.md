@@ -3,3 +3,7 @@ Basic Syntax
 # Arewa
 ## Data
 ### Science
+
+Emphasis
+*Musty*
+*Jabir*

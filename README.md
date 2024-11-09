@@ -6,5 +6,5 @@ Basic Syntax
 
 Emphasis
 
-* Musty *
-* Jabir *
+*This text will be italic*
+
